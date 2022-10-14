@@ -2,7 +2,7 @@
 
 Neste projeto apresento um mini currículo com um resumo das minhas informações e minhas redes sociais.
 
-### Abaixo a imagem do projeto: :space_invader:
+### :space_invader: Abaixo a imagem do projeto: :space_invader:
 
 
 <p align="center">
