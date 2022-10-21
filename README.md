@@ -2,6 +2,8 @@
 
 Neste projeto apresento um mini currículo com um resumo das minhas informações e minhas redes sociais.
 
+Visite o site [aqui](https://mini-portifolio-carolalves.netlify.app/)
+
 ### :space_invader: Abaixo a imagem do projeto: :space_invader:
 
 
